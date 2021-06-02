@@ -1,1 +1,1 @@
-# PHP-internship at akash technoloabs.
+# PHP-internship at akash technolabs.
