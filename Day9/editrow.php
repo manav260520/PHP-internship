@@ -3,7 +3,7 @@
 $connection = mysqli_connect("localhost","root" ,"","db_internship");
 
 if(!isset($_GET['id']) || empty($_GET['id'])){
-    header("location:3-table.php");
+    header("location:display.php");
 }
 $editid = $_GET['id'];
 
